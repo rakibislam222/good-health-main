@@ -1,0 +1,141 @@
+body {
+    font-family: 'Ibarra Real Nova', serif;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.skip-orange {
+    color: orange;
+}
+
+.half-width {
+    width: 50%;
+    padding: 2%;
+}
+
+.half-width img {
+    width: 80%;
+}
+
+#witdh-of-image {
+    width: 250px;
+
+
+}
+
+.flexiable-container {
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: coral;
+    border-radius: 20px;
+    padding: 10px 30px;
+    color: white;
+    font-weight: 700;
+}
+
+#change-bg {
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-position-x: right;
+
+
+
+}
+
+#change-bg {
+    display: flex;
+
+}
+
+.a-half-width {
+    margin: 200px 200px;
+}
+
+.box-1 {
+    background-color: rgba(234, 219, 219, 0.764);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 300px;
+    margin-right: 20px;
+    padding: 20px;
+    border-radius: 15px;
+
+}
+
+.box-2 {
+    background-color: rgba(234, 219, 219, 0.764);
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 80px;
+    margin-right: 300px;
+    padding: 20px;
+    border-radius: 15px;
+
+}
+
+.two-box {
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.left-move {
+    margin: 200px;
+}
+
+.my-reci {
+    text-align: center;
+}
+
+.show-up-line {
+    display: inline-block;
+    text-align: center;
+    margin: 40px;
+    padding: 20px;
+
+}
+
+.image {
+    height: 300px;
+    width: 500px;
+
+}
+
+#last-part {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(234, 219, 219, 0.764);
+    margin-left: 170px;
+    margin-right: 170px;
+    margin-top: 40px;
+    border-radius: 15px;
+}
+
+#welcome {
+    text-align: center;
+    color: bisque;
+    margin-top: 40px;
+    background-color: black;
+    padding: 40px;
+}
+
+#color {
+    color: orange;
+}
+
+h4 {
+    text-align: right;
+    font-family: 'Lobster', cursive;
+    color: hotpink;
+    margin-top: 30PX;
+}
